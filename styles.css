@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-color: #BDCDD6;
+
+}
+
+.image-division {
+    border-radius: 24px;
+    display: inline-block;
+}
+
+#imagebody {
+    width: 300px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 15px;
+
+}
+
+#imageborder {
+    position: relative;
+    width: 280px;
+    height: 280px;
+    border-radius: 25px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+h1 {
+
+    font-size: 1.40rem;
+    position: relative;
+    display: inline-block;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+p {
+    font-size: 1rem;
+    position: relative;
+    display: inline-block;
+    color: grey;
+    font-family: 'Outfit', sans-serif;
+}
+
+.textbox {
+    display: inline-block;
+    position: relative;
+    width: 280px;
+}
